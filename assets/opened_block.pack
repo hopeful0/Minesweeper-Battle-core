@@ -1,0 +1,68 @@
+
+opened_block.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+eight
+  rotate: false
+  xy: 1, 165
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+five
+  rotate: false
+  xy: 1, 83
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+four
+  rotate: false
+  xy: 83, 165
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+highlight
+  rotate: false
+  xy: 1, 1
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+one
+  rotate: false
+  xy: 83, 83
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+seven
+  rotate: false
+  xy: 165, 165
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+six
+  rotate: false
+  xy: 83, 1
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+three
+  rotate: false
+  xy: 165, 83
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+two
+  rotate: false
+  xy: 165, 1
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
